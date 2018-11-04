@@ -1,0 +1,9 @@
+### Code ###
+.settings/
+.vscode/
+tsconfig.json
+jsconfig.json
+
+### Haskell ###
+.stack-work/
+*~
